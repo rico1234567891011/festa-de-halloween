@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@config "../../tailwind.config.ts";
+
+:root {
+  --roxo-profundo: #3a0f5c;
+  --preto-noite: #0b0b10;
+  --laranja-queimado: #c75c1e;
+  --lilas-luar: #e6d7ff;
+  --cinza-ameixa: #2f2a3a;
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background-color: var(--preto-noite);
+  color: var(--lilas-luar);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
