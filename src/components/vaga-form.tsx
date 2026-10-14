@@ -101,7 +101,7 @@ export function VagaForm() {
           className="text-2xl text-lilas-luar transition-opacity hover:opacity-80"
           style={{ fontFamily: "var(--font-creepy)" }}
         >
-          Halloween <span className="text-laranja-queimado">23/10</span>
+          Halloween <span className="text-laranja-queimado">16/10</span>
         </Link>
         {step < 2 && (
           <Link href="/" className="text-sm text-white/50 transition-colors hover:text-white">

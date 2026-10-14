@@ -25,7 +25,7 @@ export default function Home() {
               Halloween
             </span>
             <span className="mt-3 block text-5xl tracking-[0.25em] text-laranja-queimado drop-shadow-[0_0_24px_rgba(199,92,30,0.6)] md:text-7xl">
-              23/10
+              16/10
             </span>
           </h1>
           <SolicitarVagaButton className={ctaClass} />

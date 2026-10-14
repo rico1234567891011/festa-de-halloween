@@ -9,9 +9,7 @@ const faqs = [
   {
     question: "Posso pedir reembolso se desistir?",
     answer:
-      `Sim! O reembolso poderá ser solicitado até o dia 16/10, uma semana antes da festa.
-
-Para solicitar, basta entrar em contato com um dos responsáveis pela organização através do WhatsApp, informando a desistência. Após a solicitação, o valor pago será devolvido via Pix.`,
+      `O prazo para pedir reembolso já encerrou, já que a festa está próxima. A partir de agora, não é mais possível solicitar a devolução do valor pago.`,
   },
   {
     question: "Depois que eu adicionar meu nome e contato no site, o que acontece?",
