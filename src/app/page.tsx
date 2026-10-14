@@ -43,8 +43,7 @@ export default function Home() {
                 Contaremos com
               </p>
               <p className="text-xl font-medium text-lilas-luar md:text-2xl">
-                DJs <span className="text-laranja-queimado">•</span> Drinks variados{" "}
-                <span className="text-laranja-queimado">•</span> Open bar{" "}
+                DJs <span className="text-laranja-queimado">•</span> Open bar{" "}
                 <span className="text-laranja-queimado">•</span> Espaço exclusivo
               </p>
             </div>
